@@ -49,7 +49,7 @@ class Program
     }
     static void Main()
     {
-      
+      //starts the FileNameRemover
         FileNameRemoverAndCopier();  
     }
 
